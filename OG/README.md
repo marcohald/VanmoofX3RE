@@ -58,7 +58,7 @@ Top pcb have conformal coating :/
 
 ## Component list :
 
-- stm32l072czt6 (swd interface on pcb bottom)
+- stm32l072czt6 (swd interface on pcb bottom) LQFP48 Packaging
 - Battery cell NR18650MJ1 A062C032N1 (cant fully read it without desoldering battery cell)
 - Li-Ion battery Management LSI ML5236 (communicate via SPI)
 
